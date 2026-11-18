@@ -4,14 +4,17 @@
 
 ## Overview
 
-EgoDecade is a longitudinal egocentric video data project covering approximately ten years of real-world human experiences.
+EgoDecade is a longitudinal egocentric video dataset spanning approximately ten years of real-world experiences recorded by a single participant.
 
 The project focuses on the curation and organization of long-term first-person video recordings to support research in egocentric vision, long-horizon video understanding, and embodied intelligence.
+
+EgoDecade is a research initiative led by **Action Intelligence**. The project is currently in the data organization, curation, and infrastructure preparation phase.
 
 ## Dataset Overview
 
 | Attribute | Description |
 |---|---|
+| Number of Participant | Only one person |
 | Temporal Coverage | Approximately 10 years |
 | Planned Data Volume | Up to 800 TB |
 | Primary Modality | First-person RGB video |
